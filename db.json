@@ -12,7 +12,6 @@
     "name": "typicode"
   },
   "clients": [
-    [
     {
       "AuditCategory": "Client",
       "AuditId": 2237,
@@ -246,5 +245,4 @@
       "FSGDate": "0001-01-01"
     }
   ]
-  ],
 }
